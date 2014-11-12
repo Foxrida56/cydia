@@ -1,0 +1,10 @@
+Package: com.foxrida56.ifilebookmark
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Nicholas Keller <keller.nick@hotmail.com>
+Depends: eu.heinelt.ifile
+Section: Addons (ifile)
+Homepage: http://www.reddit.com/u/foxrida56
+Description: Backup file of my important iFile locations
+Author: Nicholas Keller
+Name: My iFile Bookmarks

@@ -1,0 +1,9 @@
+Package: com.foxrida56.myfavoritesources
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: Nicholas Keller <keller.nick@hotmail.com>
+Section: Sources
+Homepage: http://www.reddit.com/u/foxrida56
+Description: All my favorite repos
+Author: Nicholas Keller <keller.nick@hotmail.com>
+Name: My Favorite Sources

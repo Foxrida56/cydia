@@ -1,0 +1,8 @@
+Origin: Foxrida56’s Github Repo
+Label: Foxrida56’s Repo
+Suite: stable
+Version: 1.0
+Codename: foxtrot56
+Architectures: iphoneos-arm
+Components: main
+Description: Foxrida56’s repo for storage and testing
