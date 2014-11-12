@@ -1,3 +1,1 @@
-THIS IS A TEST README FILE BY FOXRIDA56 IF YOU'RE READING IT, CHANCES ARE THAT I LOVE YOU.
-Ok bye.
--Fox'
+This is my README file. Nothing to see here I guess.
